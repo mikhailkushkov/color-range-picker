@@ -1,5 +1,5 @@
 # color-range-picker
-It is a 'Color-range-picker' based on ES6 only
+## It is a 'Color-range-picker' based on ES6 only
 
 ## Installation
 
